@@ -1,0 +1,1 @@
+<img src="${base}/resources/admin/img/unauthorized.jpg"/>
